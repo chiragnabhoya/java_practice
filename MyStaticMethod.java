@@ -11,7 +11,6 @@ class Emp
 	{
 		eid=id;
 		ename=nm;
-
 	}
 
 	void display()
