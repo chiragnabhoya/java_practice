@@ -35,8 +35,5 @@ class MyStaticMethod
 
 		e1.display();
 		e2.display();
-
-		
-		}
 	}
 }
