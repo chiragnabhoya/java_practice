@@ -31,5 +31,4 @@ class MyThread7
 		d3.start();
 
 	}
-
 }
