@@ -37,7 +37,6 @@ class MyStaticBlock
 		Emp e1=new Emp(101,"ankit");
 		Emp e2=new Emp(102,"chirag");
 
-
 		e1.display();
 		e2.display();
 
