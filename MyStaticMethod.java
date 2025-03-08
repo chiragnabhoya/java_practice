@@ -25,7 +25,6 @@ class Emp
 	}
 }
 
-
 class MyStaticMethod
 {
 	public static void main (String args[])
