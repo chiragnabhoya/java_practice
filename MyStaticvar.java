@@ -30,7 +30,6 @@ class MyStaticvar
 		Emp e1 = new Emp(101,"ankit");
 		Emp e2 = new Emp(102,"Nishant");
 
-
 		Emp.ecompony="sutex";
 
 		e1.display();
